@@ -28,7 +28,20 @@ From the above characteristic table, we can directly write the next state equati
 
 **Procedure**
 
-/* write all the steps invloved */
+STEP 1:
+Type the program in quartus software.
+
+STEP 2:
+Compile and run the program.
+
+STEP 3:
+Generate the RTL schematic and save the logic diagram.
+
+STEP 4:
+Create nodes for inputs and outputs to generate the timing diagram.
+
+STEP 5:
+For different input combinations generate the timing diagram
 
 **PROGRAM**
 module TFLIPFLOPPOSEDGE( input clk, rst_n, input t,
